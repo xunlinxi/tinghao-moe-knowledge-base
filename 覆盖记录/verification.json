@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "checks": {
+    "作品角色与规范角色目录一致": true,
+    "比赛编号与文件键唯一": true,
+    "索引全部赛果取得且身份一致": true,
+    "逐场赛果与角色战绩逐条一致": true,
+    "全部角色独立标题导出": true,
+    "角色战绩条数守恒": true,
+    "逐场选手条数守恒": true,
+    "每场来源链接保留": true,
+    "异常数据备注完整保留": true,
+    "全部文献概述导出": true,
+    "禁赛名单完整导出": true,
+    "来源响应哈希完整": true,
+    "上传目录仅有非空Markdown": true,
+    "分层整理后正文内容保持不变": true
+  },
+  "upload_files": 36,
+  "upload_chars": 3501419,
+  "matches": 202,
+  "vote_rows": 5810,
+  "characters": 3729,
+  "works": 976,
+  "scope_note": "正文数据与来源完整性检查，不等于对社区观点作官方背书；图片、音视频、外部百科及无法加载的1v1结果未纳入正文。",
+  "raw_capture_cache_retained": false,
+  "temporary_tools_retained": false,
+  "verification_scope_note": "checks为清理前的采集与导出核验记录；当前未附原始响应。cleanup_integrity为清理后独立重新计算的正文哈希结果。",
+  "cleanup_integrity": {
+    "passed": true,
+    "upload_files": 36,
+    "all_upload_sha256_unchanged": true,
+    "scope": "清理操作完成时的历史核验；后续文字调整见editorial_updates。"
+  },
+  "editorial_updates": {
+    "reason": "公开资料仅引用公开网站，调整站点工具说明的来源表述",
+    "changed_upload_files": [
+      "上传用Markdown/05_外围参考_作品索引与站点工具/站点工具/站内工具与实时状态.md"
+    ],
+    "other_35_upload_files_unchanged": true
+  },
+  "current_upload_integrity": {
+    "passed": true,
+    "files": 36
+  },
+  "historical_checks_note": "此项为分层整理时的历史核验；后续站点工具说明的措辞调整另见editorial_updates。"
+}

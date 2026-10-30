@@ -1,0 +1,2108 @@
+[
+  {
+    "url": "https://tinghao.moe/api/character_card_list.json",
+    "status": 200,
+    "bytes": 5554,
+    "sha256": "c26003867cbf6409ec296f6b738fe177e9b30ae830065491a7f7269dad4c83a7",
+    "captured_at": "2026-10-31T02:24:25.590554+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/character_avatar_year.json",
+    "status": 200,
+    "bytes": 158450,
+    "sha256": "63c90e236f4092d86e46b8c31beb45330b42d0e0b72cac58542c0c500c2a8814",
+    "captured_at": "2026-10-31T02:24:26.085013+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/bracket.json",
+    "status": 200,
+    "bytes": 90310,
+    "sha256": "41cf52a5a1a75c8d0bd5d4540dc814c46179220514d270065690ee18fc1d7e30",
+    "captured_at": "2026-10-31T02:24:26.094681+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/character_opponents.json",
+    "status": 200,
+    "bytes": 44050,
+    "sha256": "9dcd2c20b4c0297b165029804c64e548f878365137fe40445651f7ab4821131f",
+    "captured_at": "2026-10-31T02:24:26.556848+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/character_records.json",
+    "status": 200,
+    "bytes": 811459,
+    "sha256": "10daa53bca484a503a096b47552b37d023be2e6abcfcf10c745dc8893e32a3a3",
+    "captured_at": "2026-10-31T02:24:27.469600+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/characters.json",
+    "status": 200,
+    "bytes": 475853,
+    "sha256": "167b3041ed767850186713241b208a3c9400860f7902e5d99b28967304f0aa77",
+    "captured_at": "2026-10-31T02:24:27.511482+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/data.json",
+    "status": 200,
+    "bytes": 468608,
+    "sha256": "9d4a96e384b8771aa770d96b276f328c095300ee02917b591c5afcf04b2cee38",
+    "captured_at": "2026-10-31T02:24:27.729827+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/donate.json",
+    "status": 200,
+    "bytes": 1299,
+    "sha256": "6ac52b19be531de8386fc3870ee99e9f006887580d4ab85fb6c9aebe63b93a34",
+    "captured_at": "2026-10-31T02:24:28.079129+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/forbid.json",
+    "status": 200,
+    "bytes": 187351,
+    "sha256": "7222bdf4e1261428fd3f5064154945c67f2018ec69157280d3e4cdb80f0f7e99",
+    "captured_at": "2026-10-31T02:24:28.564089+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/name_alias.json",
+    "status": 200,
+    "bytes": 60310,
+    "sha256": "335156e9d61bb319db5be9249817aa2ffee42f67b7eef774cdee7940ad7b76a3",
+    "captured_at": "2026-10-31T02:24:28.710498+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/results.json",
+    "status": 200,
+    "bytes": 44574,
+    "sha256": "741808dccee845fcdab625a86b8e690a1ea9fbd493d9b5175ebfbc6a0bd44f47",
+    "captured_at": "2026-10-31T02:24:28.811718+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/realtime/vote.json",
+    "status": 200,
+    "bytes": 22,
+    "sha256": "4acf9572970a629642700193fcf023b9cc8ba319b52cdccca9af922c84d1e29e",
+    "captured_at": "2026-10-31T02:24:29.315231+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/temple/champion-paths.json",
+    "status": 200,
+    "bytes": 20058,
+    "sha256": "e0163621a0f3a5eb7a36c33f1d85993741ef43a44e1b5f36e400597adfeabdf0",
+    "captured_at": "2026-10-31T02:24:29.990865+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/character-colors.json",
+    "status": 200,
+    "bytes": 153396,
+    "sha256": "bf4a5f6184a66b8a975e291bf8919da870fad170f78d80ed30340f7cba764cc4",
+    "captured_at": "2026-10-31T02:24:30.038926+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/robots.txt",
+    "status": 200,
+    "bytes": 67,
+    "sha256": "90d24bc3bf698ac1e173739502298ccca72adf1f564fab05f484b8c48d1cadd2",
+    "captured_at": "2026-10-31T02:24:30.796454+08:00",
+    "content_type": "text/plain; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/manifest.json",
+    "status": 200,
+    "bytes": 696,
+    "sha256": "6db9afa0cdb52887ed7bfa4df1c8888fd32fd2fb092a47d1cf45b2a53be90bfb",
+    "captured_at": "2026-10-31T02:24:31.531283+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/realtime/time_series.json",
+    "error": "HTTP Error 404: Not Found",
+    "status": "failed"
+  },
+  {
+    "url": "https://tinghao.moe/sitemap.xml",
+    "error": "HTTP Error 404: Not Found",
+    "status": "failed"
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260827-纪念赛72进16 Day4.json",
+    "status": 200,
+    "bytes": 2722,
+    "sha256": "fb450c5c63de104bd9f8f3ea91a7ada15d2c5c3f23b1a440e38a7b69e1d7f4a9",
+    "captured_at": "2026-10-31T02:24:35.772088+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260828-纪念赛16进4.json",
+    "status": 200,
+    "bytes": 2521,
+    "sha256": "576b2cee7194661d2c2b11873e531f8e3bd0a33f3d5542ae8e8ef5e420c4c565",
+    "captured_at": "2026-10-31T02:24:35.774183+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260829-纪念赛决赛.json",
+    "status": 200,
+    "bytes": 919,
+    "sha256": "8d138219f4eb116b3c9904ac290547d885709619a443931203a918a4be519908",
+    "captured_at": "2026-10-31T02:24:35.910076+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260824-纪念赛72进16 Day1.json",
+    "status": 200,
+    "bytes": 2740,
+    "sha256": "66d964b8c430aaac3fa21655a736a47ddc1f2ad58e07f5f0bf0730ecf9551d91",
+    "captured_at": "2026-10-31T02:24:36.489903+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260826-纪念赛72进16 Day3.json",
+    "status": 200,
+    "bytes": 2784,
+    "sha256": "c9f1f5a2cf010653d3ecac88e4bf852aaf253a70c43629b91cbeaf175606b49c",
+    "captured_at": "2026-10-31T02:24:36.495190+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260825-纪念赛72进16 Day2.json",
+    "status": 200,
+    "bytes": 2860,
+    "sha256": "f819f136ccf9bbe925e0d11bb0e25452e8872cc31299abb65df0fa8cbc50092a",
+    "captured_at": "2026-10-31T02:24:36.519009+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260821-半决赛.json",
+    "status": 200,
+    "bytes": 965,
+    "sha256": "627d132fe3a8048777e3336cd9e45c954600693b2bd485ef051a7e5c807b9e3e",
+    "captured_at": "2026-10-31T02:24:37.126247+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260823-表演赛.json",
+    "status": 200,
+    "bytes": 2314,
+    "sha256": "32cc79c08fd1dc6a9219eb00c3a7d6dd458288d562894bd3da9ceca0a6704161",
+    "captured_at": "2026-10-31T02:24:37.139681+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260822-决赛.json",
+    "status": 200,
+    "bytes": 900,
+    "sha256": "88b509be8f064c4c5174f93d0889e73063741f80a36f690e13930189ffb7f0fb",
+    "captured_at": "2026-10-31T02:24:37.181754+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260819-淘汰赛16进8 Day2.json",
+    "status": 200,
+    "bytes": 1452,
+    "sha256": "ffe08ed32ade1597ed29b98e0b48ee42f8daa0d69da16133c86042668b5ac14c",
+    "captured_at": "2026-10-31T02:24:37.746922+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260820-淘汰赛8进4.json",
+    "status": 200,
+    "bytes": 1540,
+    "sha256": "08b97ee2b5b241cf8799d0b42a44e9e6cd64a899f742ce89109cbdacb2cfeff8",
+    "captured_at": "2026-10-31T02:24:37.764878+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260818-淘汰赛16进8 Day1.json",
+    "status": 200,
+    "bytes": 1549,
+    "sha256": "61d9cb828b1e395a311866631a1804ddc20ea6c8397e3a0fc6bed2d4e92bc883",
+    "captured_at": "2026-10-31T02:24:37.882493+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260816-淘汰赛48进16 Day3.json",
+    "status": 200,
+    "bytes": 2005,
+    "sha256": "ec1e1cb613c12d272febf1af09ac830b1fd55792832931aca8c24ff6a412677c",
+    "captured_at": "2026-10-31T02:24:38.370033+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260817-淘汰赛48进16 Day4.json",
+    "status": 200,
+    "bytes": 1987,
+    "sha256": "ee6debae9e0741a78afdab89ef65a83e27ee6183dfc38e3a40a357aba57ed281",
+    "captured_at": "2026-10-31T02:24:38.516986+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260815-淘汰赛48进16 Day2.json",
+    "status": 200,
+    "bytes": 2101,
+    "sha256": "bcde4971b6e6eb3a0808767b994281a900d1be8f3266aaefa7e18110fc5460f5",
+    "captured_at": "2026-10-31T02:24:38.540241+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260814-淘汰赛48进16 Day1.json",
+    "status": 200,
+    "bytes": 2071,
+    "sha256": "b6afbe886a6aa6265db3bd311eb815aa99e6ef8a6c0598e9bda16205637e0cdd",
+    "captured_at": "2026-10-31T02:24:38.981006+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260812-复活赛.json",
+    "status": 200,
+    "bytes": 5782,
+    "sha256": "68a0b3b90e4451fe2ad85d213ccd62336dead588a8fbd1353f8d6a861001748c",
+    "captured_at": "2026-10-31T02:24:39.244669+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260811-海选赛day8.json",
+    "status": 200,
+    "bytes": 10917,
+    "sha256": "44453b2daf804705dc93190d0a121368315f2387a3b5b2b7a3ac3d3520639fe0",
+    "captured_at": "2026-10-31T02:24:39.257725+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260810-海选赛day7.json",
+    "status": 200,
+    "bytes": 10643,
+    "sha256": "1e908941c9ec4dd414379f03cb2ced866ef916c92afd7544e27f4158434593dc",
+    "captured_at": "2026-10-31T02:24:39.625794+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260809-海选赛day6.json",
+    "status": 200,
+    "bytes": 10941,
+    "sha256": "20d660e1f7d00644cc50175fb1b98d13173077ec5e1c95fc07cbc41d792bc4f0",
+    "captured_at": "2026-10-31T02:24:39.888214+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260808-海选赛day5.json",
+    "status": 200,
+    "bytes": 10647,
+    "sha256": "9269a265334cb712f2db0365987275192fb98c9e3ad62fe4d87b80699d34fd62",
+    "captured_at": "2026-10-31T02:24:39.890796+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260807-海选赛day4.json",
+    "status": 200,
+    "bytes": 10604,
+    "sha256": "8044195c7a58f0f2d943ab167eac3cd90b347a66f069b3bd957eec1c700ce102",
+    "captured_at": "2026-10-31T02:24:40.421644+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260805-海选赛day2.json",
+    "status": 200,
+    "bytes": 10692,
+    "sha256": "98eb53ea2155c030374be9861928b38d3e91c19fd5b9f3824f5abbb8723cec20",
+    "captured_at": "2026-10-31T02:24:40.506029+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260806-海选赛day3.json",
+    "status": 200,
+    "bytes": 10560,
+    "sha256": "35c74d8a6e470dd086e231235f0ca8ca2c9ea28a02f788b79910ae83f321b076",
+    "captured_at": "2026-10-31T02:24:40.559370+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250818-表演赛.json",
+    "status": 200,
+    "bytes": 2522,
+    "sha256": "5b5baf5b4523bde1f9ff99a03aade5c7c9835e3ee94996b9f0c751cb52adc880",
+    "captured_at": "2026-10-31T02:24:41.213196+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20260804-海选赛day1.json",
+    "status": 200,
+    "bytes": 10695,
+    "sha256": "d2a019c14cd8a73039c303e18f2440601c3ade8a4a510f5d3b62a53f88f611ea",
+    "captured_at": "2026-10-31T02:24:41.283994+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250817-决赛.json",
+    "status": 200,
+    "bytes": 822,
+    "sha256": "1a55262f7c3e44a184aa66cb47f13a77efffc899f5b2920abff1fb4fee8217ef",
+    "captured_at": "2026-10-31T02:24:41.318042+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250816-半决赛.json",
+    "status": 200,
+    "bytes": 891,
+    "sha256": "f734df70e21f07802814d84ceb88315789a3a08765138c8d799f606b4981e240",
+    "captured_at": "2026-10-31T02:24:41.840746+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250814-淘汰赛16进8 Day2.json",
+    "status": 200,
+    "bytes": 1396,
+    "sha256": "990381ad3b771e431ff973464eb3b2aa1d30fdd59d0d7e8525e1402cdd87934f",
+    "captured_at": "2026-10-31T02:24:41.960067+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250815-淘汰赛8进4.json",
+    "status": 200,
+    "bytes": 1399,
+    "sha256": "3d26e3069e8a609515c663a9dda98257bc4134098a71681c1fde12942736e7e6",
+    "captured_at": "2026-10-31T02:24:41.960476+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250813-淘汰赛16进8 Day1.json",
+    "status": 200,
+    "bytes": 1450,
+    "sha256": "a2ee92b1e69ae47c4580488030f7038c5130fa5d9dd09c135630331fc746ad29",
+    "captured_at": "2026-10-31T02:24:42.638166+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250812-淘汰赛48进16 Day4.json",
+    "status": 200,
+    "bytes": 1932,
+    "sha256": "33f8ac0161d3caa2fcd5c5357405bed326333d482ad8fcdaadba080cca27d07e",
+    "captured_at": "2026-10-31T02:24:42.645244+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250811-淘汰赛48进16 Day3.json",
+    "status": 200,
+    "bytes": 1985,
+    "sha256": "6d23798d767a0ce52f9031295f2ce981ca1d24250cd95b42bd458b9fb1b098f4",
+    "captured_at": "2026-10-31T02:24:42.783706+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250809-淘汰赛48进16 Day1.json",
+    "status": 200,
+    "bytes": 2040,
+    "sha256": "dc0eadd79955d435d6f86bfbeb244db9a486a8de0be6bf56118a65bd73bae772",
+    "captured_at": "2026-10-31T02:24:43.265178+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250810-淘汰赛48进16 Day2.json",
+    "status": 200,
+    "bytes": 1965,
+    "sha256": "88ccae4f74d21d79da3858a4013bbe5f78a0e1adc86845cc20586d19c3e2296d",
+    "captured_at": "2026-10-31T02:24:43.486690+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250807-复活赛.json",
+    "status": 200,
+    "bytes": 5626,
+    "sha256": "a40b51128476cf3c72c38de6fa2d4afe2eb2837f99d548671e5f6266512371ca",
+    "captured_at": "2026-10-31T02:24:43.643740+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250806-海选赛day8.json",
+    "status": 200,
+    "bytes": 13684,
+    "sha256": "140fb14ddda928011ca4786290f9e169e4bf6820843df86953049fd782697c62",
+    "captured_at": "2026-10-31T02:24:44.055629+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250804-海选赛day6.json",
+    "status": 200,
+    "bytes": 13811,
+    "sha256": "913aec525428355b3aedfeaa04329838c7b2f8249dfcd73bd07b55b3a075e343",
+    "captured_at": "2026-10-31T02:24:44.282014+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250805-海选赛day7.json",
+    "status": 200,
+    "bytes": 13448,
+    "sha256": "c3387857a0c3f2e05e0281e8ee29c6335c8a10516823d975fa89675a6b86f629",
+    "captured_at": "2026-10-31T02:24:44.309312+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250803-海选赛day5.json",
+    "status": 200,
+    "bytes": 13658,
+    "sha256": "79ed3dd76e7373872b305fbf185da799c48aaa5415aa33dc4dcad4a31a0510c4",
+    "captured_at": "2026-10-31T02:24:44.777069+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250802-海选赛day4.json",
+    "status": 200,
+    "bytes": 14012,
+    "sha256": "8532ee7f5de2448186582edd3a1fdc533a163c10ab7b3c45cd7e0eea4831613c",
+    "captured_at": "2026-10-31T02:24:44.891950+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250801-海选赛day3.json",
+    "status": 200,
+    "bytes": 13721,
+    "sha256": "4033adc113e13f332a403d2bac80a9c87d60492857a50a682410e1f17842ae0f",
+    "captured_at": "2026-10-31T02:24:45.067274+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250731-海选赛day2.json",
+    "status": 200,
+    "bytes": 13912,
+    "sha256": "d891816c45a9ca18b122fbcc6f6fdb8f52ff60db0d314376fd32a64c35b4d421",
+    "captured_at": "2026-10-31T02:24:45.481407+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20250730-海选赛day1.json",
+    "status": 200,
+    "bytes": 14052,
+    "sha256": "20e7b24442b2adc31b2fff5be49c038c36dfb81d21bf070133e498ea94d5ce93",
+    "captured_at": "2026-10-31T02:24:45.605857+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240824-表演赛.json",
+    "status": 200,
+    "bytes": 1574,
+    "sha256": "db0623decf47c5b9916abd4828f82bbfc2ce93c635510818ac95b0719a8fe388",
+    "captured_at": "2026-10-31T02:24:45.924269+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240822-半决赛.json",
+    "status": 200,
+    "bytes": 904,
+    "sha256": "4d9b432dd7a13e521c9169abaaaf9130d02b2d777ea2ae52dc3b7090fb931dd4",
+    "captured_at": "2026-10-31T02:24:46.297560+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240823-决赛.json",
+    "status": 200,
+    "bytes": 835,
+    "sha256": "690053f6c119d9de91d194a35ab31c1739ba45c7c9a44df2211ea792ba1ac315",
+    "captured_at": "2026-10-31T02:24:46.334538+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240821-淘汰赛8进4.json",
+    "status": 200,
+    "bytes": 1422,
+    "sha256": "adbcea03bdf5ab0f385011deac8a5374a41007cfe2d4b72868f634c0b3f1d844",
+    "captured_at": "2026-10-31T02:24:46.891979+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240820-淘汰赛16进8 Day2.json",
+    "status": 200,
+    "bytes": 1428,
+    "sha256": "22de87d45e41f84531de135dc4954f2e15d5028f888db32d4483090f8f2b5aa5",
+    "captured_at": "2026-10-31T02:24:46.903143+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240819-淘汰赛16进8 Day1.json",
+    "status": 200,
+    "bytes": 1407,
+    "sha256": "c2ad8f250765c1969782e5dfab73baf6b19ee90b5b9e24669c574f362d0e9166",
+    "captured_at": "2026-10-31T02:24:47.038540+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240817-淘汰赛48进16 Day3.json",
+    "status": 200,
+    "bytes": 1963,
+    "sha256": "55e01977eee0b1020c636176d673ea2f10432b58d8d570c77777d1fdd457b7d1",
+    "captured_at": "2026-10-31T02:24:47.495436+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240818-淘汰赛48进16 Day4.json",
+    "status": 200,
+    "bytes": 1942,
+    "sha256": "9752bfbc40a8b08cabf5f90db4b903075ce77bbb8216202dfc6fcf2fba88653f",
+    "captured_at": "2026-10-31T02:24:47.515305+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240816-淘汰赛48进16 Day2.json",
+    "status": 200,
+    "bytes": 1952,
+    "sha256": "6c60524c2d7eaa5479d4befc498244e1fdfa8e460ced5d76ce3b65008cd305fc",
+    "captured_at": "2026-10-31T02:24:47.846735+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240815-淘汰赛48进16 Day1.json",
+    "status": 200,
+    "bytes": 1961,
+    "sha256": "f3d451ae5e1b1abdb3c50d888f108bcdba357403d6c2023418b316e8ca95aad3",
+    "captured_at": "2026-10-31T02:24:48.099217+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240813-复活赛.json",
+    "status": 200,
+    "bytes": 5613,
+    "sha256": "78eff19057ee845225ff0d7bbd03f5e18baa430e14b861526de2964559be8e26",
+    "captured_at": "2026-10-31T02:24:48.220800+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240812-海选赛day8.json",
+    "status": 200,
+    "bytes": 10304,
+    "sha256": "05a110925007867d0b6181f3f5ae92df7f126c9d2ed74d2ed089722bb7b8ea5f",
+    "captured_at": "2026-10-31T02:24:48.399758+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240811-海选赛day7.json",
+    "status": 200,
+    "bytes": 10426,
+    "sha256": "da2125d32f6df515945889f1cfcc311d6534d920b753fd8156e27fdd4b7570bb",
+    "captured_at": "2026-10-31T02:24:48.857727+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240810-海选赛day6.json",
+    "status": 200,
+    "bytes": 10239,
+    "sha256": "ef4722881ee5d1bd106d53a5683a106db78488f73593bff02525e013f3881169",
+    "captured_at": "2026-10-31T02:24:48.968509+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240809-海选赛day5.json",
+    "status": 200,
+    "bytes": 10257,
+    "sha256": "f1107248ecd5a099d156018c2684fdded6aba6cb9e9a589eb82414f1abb1e556",
+    "captured_at": "2026-10-31T02:24:49.327844+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240808-海选赛day4.json",
+    "status": 200,
+    "bytes": 10311,
+    "sha256": "bf22fb0e622d513c82f808e41e02f642e9894edfa6668ba165a4e6f7da68bbb3",
+    "captured_at": "2026-10-31T02:24:49.466129+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240807-海选赛day3.json",
+    "status": 200,
+    "bytes": 10782,
+    "sha256": "3e9797b12fdb5f499cfc28102e59f0b9e67802bff19d6b43b9a9c3c167070311",
+    "captured_at": "2026-10-31T02:24:49.883864+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240806-海选赛day2.json",
+    "status": 200,
+    "bytes": 10225,
+    "sha256": "0f6aa8a43b03e1ba09c84e78cb9a904e9e387791d142a5bb7539b3add774010e",
+    "captured_at": "2026-10-31T02:24:49.934752+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20240805-海选赛day1.json",
+    "status": 200,
+    "bytes": 10631,
+    "sha256": "0f18c9782ce6c4dfaad04f1f5d5946413dc61675a805a0432197aa1229386bec",
+    "captured_at": "2026-10-31T02:24:50.243583+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230827-表演赛.json",
+    "status": 200,
+    "bytes": 1460,
+    "sha256": "dfcab05452377773e0f0a4f32d097ad653163d3591cd3b04967412a29d66c3ca",
+    "captured_at": "2026-10-31T02:24:50.503318+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230825-半决赛.json",
+    "status": 200,
+    "bytes": 898,
+    "sha256": "45abf8ddf5459748dfba05d1117445da2a9fca817c485fbb049ba6313674269f",
+    "captured_at": "2026-10-31T02:24:51.077356+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230824-淘汰赛8进4.json",
+    "status": 200,
+    "bytes": 1405,
+    "sha256": "1c5b9ce381c6a9704ed873bc8829a894e9e84e208e65020879fca1ac8eca0ad5",
+    "captured_at": "2026-10-31T02:24:51.242330+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230826-决赛.json",
+    "status": 200,
+    "bytes": 827,
+    "sha256": "78d63d90ec93880a7fa6592ceac6ca5586b75d48170ed821bbe178d78fe098c9",
+    "captured_at": "2026-10-31T02:24:51.378485+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230822-淘汰赛16进8 Day1.json",
+    "status": 200,
+    "bytes": 1450,
+    "sha256": "cae12c9d98b9110a406133e4071bceb73cad5f3caec17a3c1863ececdb9beeca",
+    "captured_at": "2026-10-31T02:24:51.827338+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230823-淘汰赛16进8 Day2.json",
+    "status": 200,
+    "bytes": 1404,
+    "sha256": "a4fd709f9ff4a3138c79e76c2c4f670ed3de2017f6a236ffc1b4cdc56afb9c20",
+    "captured_at": "2026-10-31T02:24:51.841736+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230821-淘汰赛48进16 Day4.json",
+    "status": 200,
+    "bytes": 1985,
+    "sha256": "c252983b811d0f270687e57615f817c31599e6277b11f4a5664d03cd4d05f53c",
+    "captured_at": "2026-10-31T02:24:52.143549+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230819-淘汰赛48进16 Day2.json",
+    "status": 200,
+    "bytes": 1942,
+    "sha256": "36915146e30fa0cb4beb20254da7f232f5c908509cfddff25fe03b2f82d54cd6",
+    "captured_at": "2026-10-31T02:24:52.397608+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230820-淘汰赛48进16 Day3.json",
+    "status": 200,
+    "bytes": 1929,
+    "sha256": "1653db31e05ec6e0744cd8079c30491b27577a5d6dfb7998a275b39b1929095a",
+    "captured_at": "2026-10-31T02:24:52.620596+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230818-淘汰赛48进16 Day1.json",
+    "status": 200,
+    "bytes": 1937,
+    "sha256": "f3715f8262e8f5afa5634c0a3d02ff98f8c66e0d5bd00e2038e6a29b235f2f41",
+    "captured_at": "2026-10-31T02:24:52.931343+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230816-复活赛.json",
+    "status": 200,
+    "bytes": 5729,
+    "sha256": "420562e670341317df77fdd84860de43632b1e0b8a704b3528e500910e4407a5",
+    "captured_at": "2026-10-31T02:24:53.354939+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230815-海选赛day8.json",
+    "status": 200,
+    "bytes": 8017,
+    "sha256": "f9e9af4ed9a9f8e0c60cd8fc2d943a93beb5b14ccbd5f4161b90281981fa6b61",
+    "captured_at": "2026-10-31T02:24:53.361160+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230814-海选赛day7.json",
+    "status": 200,
+    "bytes": 8232,
+    "sha256": "fae9cb7e494729b1039c869554c4072ada2d9ab80b47fceb6c203d562b44fb51",
+    "captured_at": "2026-10-31T02:24:53.521061+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230813-海选赛day6.json",
+    "status": 200,
+    "bytes": 8179,
+    "sha256": "2f7bc5e1a5b4314665a05bd26a71b15492aac84ac7dd4114c858fd5ff8b9f3d3",
+    "captured_at": "2026-10-31T02:24:53.934093+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230811-海选赛day4.json",
+    "status": 200,
+    "bytes": 8115,
+    "sha256": "ca1e05540113394afdbb4d5ba55f902d0b7a413078496dcd55ff17cb68e5ff03",
+    "captured_at": "2026-10-31T02:24:54.090532+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230812-海选赛day5.json",
+    "status": 200,
+    "bytes": 7923,
+    "sha256": "5a7c6e0d8583b19ef0ffb29380f601c71e74156d870182dca51c7b28b971bdb3",
+    "captured_at": "2026-10-31T02:24:54.247351+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230809-海选赛day2.json",
+    "status": 200,
+    "bytes": 8146,
+    "sha256": "b1b1b2ef0bb5e774b134cba4bdc0d2a0b06b87e842dbe17dccab888f3aab52d6",
+    "captured_at": "2026-10-31T02:24:54.688944+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230810-海选赛day3.json",
+    "status": 200,
+    "bytes": 8237,
+    "sha256": "1428f6f6275fd097bd2e6e84d7e3fc4b542bad93583ddfcc13aa63577d1c9322",
+    "captured_at": "2026-10-31T02:24:54.701527+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20230808-海选赛day1.json",
+    "status": 200,
+    "bytes": 8284,
+    "sha256": "b7e80462955bbe97a098a7d84f0b038b3e1e0e9f92aa5ca37d098597655a76b9",
+    "captured_at": "2026-10-31T02:24:54.848120+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220829-决赛.json",
+    "status": 200,
+    "bytes": 815,
+    "sha256": "00ee41b5407bfc725348a9a6d673cc4fa52ad7d3762d078f400c42b283dfe256",
+    "captured_at": "2026-10-31T02:24:55.378178+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220830-表演赛.json",
+    "status": 200,
+    "bytes": 1639,
+    "sha256": "7a7dc091d8033becc6bc8993b4d0afb90f76d411a3716e4ceb347495ab70b428",
+    "captured_at": "2026-10-31T02:24:55.459741+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220828-半决赛.json",
+    "status": 200,
+    "bytes": 887,
+    "sha256": "8db800f02ab25b137d8691b6a5a8e19cd5dcb84821b2ee01f02c04f24f19841d",
+    "captured_at": "2026-10-31T02:24:55.724048+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220826-淘汰赛16进8 Day2.json",
+    "status": 200,
+    "bytes": 1376,
+    "sha256": "994615fd7f604465852ba7ba7cb2a6a0dc0090070575cf8e0300b54f06ff8c85",
+    "captured_at": "2026-10-31T02:24:56.166753+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220827-淘汰赛8进4.json",
+    "status": 200,
+    "bytes": 1406,
+    "sha256": "b9bfece289033f293fdd9f127a616a3f1565fb26ab850303612a9c2690e8e246",
+    "captured_at": "2026-10-31T02:24:56.179538+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220825-淘汰赛16进8 Day1.json",
+    "status": 200,
+    "bytes": 1423,
+    "sha256": "b9e419ab0f507b19770e85d01ea6e28b3f607958131e83f5e8b31f0974d5fc64",
+    "captured_at": "2026-10-31T02:24:56.505794+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220824-淘汰赛48进16 Day4.json",
+    "status": 200,
+    "bytes": 1894,
+    "sha256": "2676c19dbd5dfc50b0b545c72ef26692bc65cb234a9f76ae15985e83f930efd6",
+    "captured_at": "2026-10-31T02:24:56.796564+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220823-淘汰赛48进16 Day3.json",
+    "status": 200,
+    "bytes": 1925,
+    "sha256": "5ddea1d55502456b83fec386dfe83429e31b800f845b3b34defb69a5e95a8e2b",
+    "captured_at": "2026-10-31T02:24:57.059949+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220822-淘汰赛48进16 Day2.json",
+    "status": 200,
+    "bytes": 1985,
+    "sha256": "bea8568005c6c6f4a4fb7381771a1aec70440dd1d7816198ca6f9aaab198a291",
+    "captured_at": "2026-10-31T02:24:57.358698+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220821-淘汰赛48进16 Day1.json",
+    "status": 200,
+    "bytes": 1925,
+    "sha256": "181ffb4110d58a32173373e151eb8b1d45bbbac23eee0bf4e04a3ffa4be491fd",
+    "captured_at": "2026-10-31T02:24:57.520609+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220819-复活赛.json",
+    "status": 200,
+    "bytes": 5555,
+    "sha256": "f6b453293732caca4c208bf38ee2184e5cb4cbe014ba60c1a27a8846571f8aed",
+    "captured_at": "2026-10-31T02:24:57.700132+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220818-海选赛day8.json",
+    "status": 200,
+    "bytes": 7452,
+    "sha256": "2e4713bccbddb7a7e1adb01f5e8405c71c81886224a71357255d2bf349fdf9af",
+    "captured_at": "2026-10-31T02:24:57.948281+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220817-海选赛day7.json",
+    "status": 200,
+    "bytes": 7484,
+    "sha256": "90b4b753fa45fb0825132ebabe4d4167d9c2eedfd176688edd4886107ccd18ec",
+    "captured_at": "2026-10-31T02:24:58.232858+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220816-海选赛day6.json",
+    "status": 200,
+    "bytes": 7356,
+    "sha256": "0b60c1a057323b5c27a83c5241eebb6ef82021d013b1ed96d00044816ae50898",
+    "captured_at": "2026-10-31T02:24:58.509470+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220815-海选赛day5.json",
+    "status": 200,
+    "bytes": 7356,
+    "sha256": "e42d2c8a8b3bb0e2fe85cdbf0739e64f52429e79e7211360e01101018b2b95d0",
+    "captured_at": "2026-10-31T02:24:58.687909+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220814-海选赛day4.json",
+    "status": 200,
+    "bytes": 7462,
+    "sha256": "972bd2db4a7e42d11b38fb247dd2d4e890edafe27a3927ba4660996737be7bb4",
+    "captured_at": "2026-10-31T02:24:58.944002+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220813-海选赛day3.json",
+    "status": 200,
+    "bytes": 7401,
+    "sha256": "2cba94abbd7cb294ff9c13cc93c273a5abb95ff1134480a1556c5677309ef102",
+    "captured_at": "2026-10-31T02:24:59.340206+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220812-海选赛day2.json",
+    "status": 200,
+    "bytes": 7511,
+    "sha256": "f3acbc115f6a639f75e8aedbf94a5ea422d6261cd9d8250e6282b6ad9dce3607",
+    "captured_at": "2026-10-31T02:24:59.412407+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220811-海选赛day1.json",
+    "status": 200,
+    "bytes": 7473,
+    "sha256": "23ffeab857f600477e49d26780ed6b032fe4b3c022e19b9ee1366910164f30a4",
+    "captured_at": "2026-10-31T02:24:59.512292+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210919-表演赛.json",
+    "status": 200,
+    "bytes": 1382,
+    "sha256": "f9b58bcaf676e2e58758b62d767e6578454bb500fd287e863190f996b31debae",
+    "captured_at": "2026-10-31T02:24:59.986179+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20220810-热身赛.json",
+    "status": 200,
+    "bytes": 830,
+    "sha256": "cf666f298fbbed094e3b93be0d3b5ac68995916a8e206983c933873b80a50cdb",
+    "captured_at": "2026-10-31T02:25:00.055710+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210917-决赛.json",
+    "status": 200,
+    "bytes": 830,
+    "sha256": "d8fbcef9c50f9246401c663aefc407c3acb1616f1ae4350a33effede1c3c29a4",
+    "captured_at": "2026-10-31T02:25:00.076058+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210916-半决赛.json",
+    "status": 200,
+    "bytes": 899,
+    "sha256": "d45095dc5e23ea595c3e282d7424bea318a1597ecbe5a9528141c02b905df004",
+    "captured_at": "2026-10-31T02:25:00.682876+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210914-淘汰赛16进8 Day2.json",
+    "status": 200,
+    "bytes": 1427,
+    "sha256": "2006959c0440a54cc195068b6e8b85ef4edefbb9360be9e79def51dfc43b88ac",
+    "captured_at": "2026-10-31T02:25:00.794828+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210915-淘汰赛8进4.json",
+    "status": 200,
+    "bytes": 1429,
+    "sha256": "aa24f83217da183a800d0beb4d3b78c7af03804d7e5163224cd46be405ee270c",
+    "captured_at": "2026-10-31T02:25:01.013017+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210913-淘汰赛16进8 Day1.json",
+    "status": 200,
+    "bytes": 1399,
+    "sha256": "4dfe6a219a96bc9931ffcf4cd9edf52b8fb5b35d2b9c1ace57d6a50efc7ca576",
+    "captured_at": "2026-10-31T02:25:01.297733+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210912-淘汰赛48进16 Day4.json",
+    "status": 200,
+    "bytes": 1950,
+    "sha256": "bc35a3b730b42bcf1366e5bc4c4da0587f28977b3db877d19c3f7274441b9739",
+    "captured_at": "2026-10-31T02:25:01.344243+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210910-淘汰赛48进16 Day2.json",
+    "status": 200,
+    "bytes": 1966,
+    "sha256": "2bf5deea5dad08141043d44a70caa7e717dd4bf94a95f08a99d273a0ba4f6b28",
+    "captured_at": "2026-10-31T02:25:01.870880+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210909-淘汰赛48进16 Day1.json",
+    "status": 200,
+    "bytes": 1917,
+    "sha256": "ee355fb5c2c04e146b4cac4a76a51189a6854a0ea0e1893d553d4f6e5ad9353b",
+    "captured_at": "2026-10-31T02:25:01.952459+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210911-淘汰赛48进16 Day3.json",
+    "status": 200,
+    "bytes": 1955,
+    "sha256": "abf84cc9cf0f6a3109478e072b2a9f5022cdc5a75ef216c44752ce03b35086c6",
+    "captured_at": "2026-10-31T02:25:01.952911+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210907-复活赛.json",
+    "status": 200,
+    "bytes": 5460,
+    "sha256": "17a7893268aa161ad3b6e38d59f2dd040e85eb665c34f8ae3e5a7d0dfe210372",
+    "captured_at": "2026-10-31T02:25:02.503811+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210906-海选赛day8.json",
+    "status": 200,
+    "bytes": 6692,
+    "sha256": "cc909ea04e88bb69ccf704f9835ba8f5740096faa1544da552148ea9313f1876",
+    "captured_at": "2026-10-31T02:25:02.659608+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210905-海选赛day7.json",
+    "status": 200,
+    "bytes": 6817,
+    "sha256": "5540c94efd7d70d459c8d58e501e282347122017033f43d5d42112266d6590d4",
+    "captured_at": "2026-10-31T02:25:02.792449+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210903-海选赛day5.json",
+    "status": 200,
+    "bytes": 6892,
+    "sha256": "6c7be6a55d5ca42d5a2e56828afcab8ae455c08c06463aa86a4366c9a5eacdf7",
+    "captured_at": "2026-10-31T02:25:03.222261+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210904-海选赛day6.json",
+    "status": 200,
+    "bytes": 6759,
+    "sha256": "f205a4b446076530e6188116617735f887773b6dc5a5be8b0b10ab1e62f4bc90",
+    "captured_at": "2026-10-31T02:25:03.252228+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210902-海选赛day4.json",
+    "status": 200,
+    "bytes": 6943,
+    "sha256": "3e77566e935c5f2628e86b3169ee867fc5192497e3a7f24693f01118eb3012a7",
+    "captured_at": "2026-10-31T02:25:03.552238+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210901-海选赛day3.json",
+    "status": 200,
+    "bytes": 6796,
+    "sha256": "9c7d68403bc8e91338026862f22fec0bcd7802296e4277f61bf1f3e23ae9c1f9",
+    "captured_at": "2026-10-31T02:25:03.966444+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210831-海选赛day2.json",
+    "status": 200,
+    "bytes": 6845,
+    "sha256": "a11c62ece3d8e0147e18e3e25b7b3dd95f76a206cc2cdd91daa3101124dfbb9f",
+    "captured_at": "2026-10-31T02:25:04.061851+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20210830-海选赛day1.json",
+    "status": 200,
+    "bytes": 6743,
+    "sha256": "55c5312f9eaa42edd8726ca12c7cf20a426be17175dc81ec36f545d46a04b5c9",
+    "captured_at": "2026-10-31T02:25:04.340340+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200917-决赛.json",
+    "status": 200,
+    "bytes": 813,
+    "sha256": "f8111df9755b848874357f9b36d01fe74cddc197663df765900504e7071e1d4f",
+    "captured_at": "2026-10-31T02:25:04.643136+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200919-表演赛.json",
+    "status": 200,
+    "bytes": 1078,
+    "sha256": "e8969c2f458febb4e39204ebb1c638fdb14af3873f001f3237fca54416f142ff",
+    "captured_at": "2026-10-31T02:25:04.701782+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200916-半决赛.json",
+    "status": 200,
+    "bytes": 882,
+    "sha256": "94b968d0d200f35aa6a9566f937e71744b33c38c6625ed774b8e9808db65663c",
+    "captured_at": "2026-10-31T02:25:05.034756+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200914-淘汰赛16进8 Day2.json",
+    "status": 200,
+    "bytes": 1433,
+    "sha256": "96f793b3ca66b9617499a281301660c0a10e0ddb238e74bdc726e966fc6f2684",
+    "captured_at": "2026-10-31T02:25:05.292956+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200915-淘汰赛8进4.json",
+    "status": 200,
+    "bytes": 1408,
+    "sha256": "4e412e59e5b010c715faae231893dcf341000755299cd743728fa51493365959",
+    "captured_at": "2026-10-31T02:25:05.310483+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200913-淘汰赛16进8 Day1.json",
+    "status": 200,
+    "bytes": 1425,
+    "sha256": "097cc74311078279fafa13959c6c28f765c6e83cd006b11439384ea3bf3444e4",
+    "captured_at": "2026-10-31T02:25:05.631719+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200912-淘汰赛48进16 Day4.json",
+    "status": 200,
+    "bytes": 1946,
+    "sha256": "55738dd1ab2b337f1de1cbffeef02c794e36a74662bb19f01f6a616b59908e56",
+    "captured_at": "2026-10-31T02:25:05.901653+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200911-淘汰赛48进16 Day3.json",
+    "status": 200,
+    "bytes": 1948,
+    "sha256": "51ea7b4386198e7e7f3db7e149f976a440193d731aeeabf35f7aa6525804df4a",
+    "captured_at": "2026-10-31T02:25:06.038491+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200910-淘汰赛48进16 Day2.json",
+    "status": 200,
+    "bytes": 1950,
+    "sha256": "7bf8b78c05771f75ffe0ce72d27ae8caf82f50adcd939b10b4b50077d87ff259",
+    "captured_at": "2026-10-31T02:25:06.378702+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200909-淘汰赛48进16 Day1.json",
+    "status": 200,
+    "bytes": 1977,
+    "sha256": "8cba0d07b041be5a60501e5331e8e61328376078771b0ebbc458dd260bd21f7f",
+    "captured_at": "2026-10-31T02:25:06.534848+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200908-复活赛.json",
+    "status": 200,
+    "bytes": 3439,
+    "sha256": "680d052c4b8df60e280cca39c0d75f776103211459ab6f13f1bb4db0559995a0",
+    "captured_at": "2026-10-31T02:25:06.694704+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200906-海选赛day7.json",
+    "status": 200,
+    "bytes": 5818,
+    "sha256": "92c50859708171b4528ec7a7f537151409b97b422d985dec3c6b01d32afb805e",
+    "captured_at": "2026-10-31T02:25:07.245856+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200907-海选赛day8.json",
+    "status": 200,
+    "bytes": 5738,
+    "sha256": "ca206bd07a11c34e137a284a14a60b6fb0fc35771763404d68ad786378994bb6",
+    "captured_at": "2026-10-31T02:25:07.395835+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200905-海选赛day6.json",
+    "status": 200,
+    "bytes": 5737,
+    "sha256": "5560f2c8506ea5d029369d0e5a2e7db0d7b3310b2e68a041f15ed267bf4883b0",
+    "captured_at": "2026-10-31T02:25:07.460392+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200904-海选赛day5.json",
+    "status": 200,
+    "bytes": 5672,
+    "sha256": "d3a461ebf1cbca80000d04033487c4132b780d4f55441561c0e865d31fbebcd3",
+    "captured_at": "2026-10-31T02:25:07.992089+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200903-海选赛day4.json",
+    "status": 200,
+    "bytes": 5780,
+    "sha256": "1d8de608755099866eac6cd6bd3bf5a10555dc91a3793a59f6e1b9afd52627d5",
+    "captured_at": "2026-10-31T02:25:08.131251+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200902-海选赛day3.json",
+    "status": 200,
+    "bytes": 5770,
+    "sha256": "d515b049688843f487688bb5bfcc8e3aa038366dc8c9165d23399a1ccaa264c1",
+    "captured_at": "2026-10-31T02:25:08.211965+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200831-海选赛day1.json",
+    "status": 200,
+    "bytes": 5672,
+    "sha256": "3114d736c293a1966cc5017af1553b921505fbc66119538c2085a5408ebf7623",
+    "captured_at": "2026-10-31T02:25:08.754426+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200901-海选赛day2.json",
+    "status": 200,
+    "bytes": 5586,
+    "sha256": "ff06529b687c01c20ff7cb8ddd600746d9075282d18854277992561383c36c34",
+    "captured_at": "2026-10-31T02:25:08.827070+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20200830-热身赛.json",
+    "status": 200,
+    "bytes": 1408,
+    "sha256": "24c3ec7777578805180d96664d4452f63a35975074f81eca0d5ab40954fc8c11",
+    "captured_at": "2026-10-31T02:25:08.964316+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190920-表演赛.json",
+    "status": 200,
+    "bytes": 1427,
+    "sha256": "25392ec8f2844bf575606493b29fdb5c15fa7da87855f891d5b5e656dd1aa6bd",
+    "captured_at": "2026-10-31T02:25:09.344315+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190919-决赛.json",
+    "status": 200,
+    "bytes": 805,
+    "sha256": "3e94e73c8b4e2ba45a49da1362cd2e7126308d01c5fe3e7df4da24881707f8ff",
+    "captured_at": "2026-10-31T02:25:09.437545+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190918-半决赛.json",
+    "status": 200,
+    "bytes": 875,
+    "sha256": "fc4b05ca05e5237bfefdaf0233ab3dca2ca8726a13bff111996edf3c4090e7c9",
+    "captured_at": "2026-10-31T02:25:09.565537+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190917-淘汰赛8进4.json",
+    "status": 200,
+    "bytes": 1388,
+    "sha256": "38eb5c7a48726d48e9fbbf9ab3d1013faac0fcd03ecc6189e44c6123917b5fcd",
+    "captured_at": "2026-10-31T02:25:09.916782+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190916-淘汰赛16进8 Day2.json",
+    "status": 200,
+    "bytes": 1437,
+    "sha256": "89c0b2e33257f7794663f2ef455d889fc016d6f14298fd77beba61a04aef2495",
+    "captured_at": "2026-10-31T02:25:10.194432+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190915-淘汰赛16进8 Day1.json",
+    "status": 200,
+    "bytes": 1405,
+    "sha256": "f86072887e8854c19cec4fa7e735ad9e511844727614d740c2aee3a0c38a95d8",
+    "captured_at": "2026-10-31T02:25:10.297813+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190914-淘汰赛48进16 Day4.json",
+    "status": 200,
+    "bytes": 1919,
+    "sha256": "c8738314ec214e29aeecbb58cb2bff62f38f800e8c0fb65182a37fc40ab973c6",
+    "captured_at": "2026-10-31T02:25:10.675281+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190913-淘汰赛48进16 Day3.json",
+    "status": 200,
+    "bytes": 1944,
+    "sha256": "df912fe2a6f11629e7d8e11f962eab39154bce0fe2335e8b3f83eb61d3a79a14",
+    "captured_at": "2026-10-31T02:25:10.811597+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190912-淘汰赛48进16 Day2.json",
+    "status": 200,
+    "bytes": 1909,
+    "sha256": "176638637aae349bf962f65269eda4fd4f8c39f3413a9dea0bc0b054a1a73fcb",
+    "captured_at": "2026-10-31T02:25:10.872311+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190911-淘汰赛48进16 Day1.json",
+    "status": 200,
+    "bytes": 1962,
+    "sha256": "63fb94b66347ea4e3240eb8e34f637ae19c59009eeb3dda37d3264f8acede6df",
+    "captured_at": "2026-10-31T02:25:11.241306+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190908-海选赛day8.json",
+    "status": 200,
+    "bytes": 4827,
+    "sha256": "088a55c1e426f82c11cffab31efebf808679175be368b21611a8149397d8df0c",
+    "captured_at": "2026-10-31T02:25:11.486049+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190909-复活赛.json",
+    "status": 200,
+    "bytes": 3512,
+    "sha256": "9c9c5ec0999e0e6457d606329252318165430076f2400d10d23e920ce9282582",
+    "captured_at": "2026-10-31T02:25:11.631426+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190907-海选赛day7.json",
+    "status": 200,
+    "bytes": 4777,
+    "sha256": "1cda783ede9a3f03404b427d1e2d850935382fd0573507aaed26db45ca29aaee",
+    "captured_at": "2026-10-31T02:25:11.917745+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190906-海选赛day6.json",
+    "status": 200,
+    "bytes": 5040,
+    "sha256": "a261cefcffc428a61a061c07347dbe542161b3d12fd26c7bc729ecbb8032f6bd",
+    "captured_at": "2026-10-31T02:25:12.276340+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190905-海选赛day5.json",
+    "status": 200,
+    "bytes": 4927,
+    "sha256": "8e458fc605dd43ea29b64bf4b5a293b348c2244b8dd2918413709443265b22ce",
+    "captured_at": "2026-10-31T02:25:12.298549+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190904-海选赛day4.json",
+    "status": 200,
+    "bytes": 4884,
+    "sha256": "b73d660c6db622437f34fb8ef80187d5f8e99ab80d44e95fa801ed33eb203c54",
+    "captured_at": "2026-10-31T02:25:12.512159+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190903-海选赛day3.json",
+    "status": 200,
+    "bytes": 4908,
+    "sha256": "cfb5209a4640bf038ad827c302250d6e271796d8016fef98a91573ae728cfd77",
+    "captured_at": "2026-10-31T02:25:12.953299+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190902-海选赛day2.json",
+    "status": 200,
+    "bytes": 4896,
+    "sha256": "dd1cf8c9072939d7b9eecdb5baf05fbc653a1e86a36e051f9e42e3527ffef17f",
+    "captured_at": "2026-10-31T02:25:13.049500+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20190901-海选赛day1.json",
+    "status": 200,
+    "bytes": 5008,
+    "sha256": "0dbdc7f3ff209299d67e578d268d877d1a2518b18ff75b8f1c6779f98b2d2543",
+    "captured_at": "2026-10-31T02:25:13.280061+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180916-表演赛.json",
+    "status": 200,
+    "bytes": 1299,
+    "sha256": "5860411d080c92fbac9363ecf40b19b55d7d30dc7abed58622a575f1f1bb8b86",
+    "captured_at": "2026-10-31T02:25:13.529412+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180915-决赛.json",
+    "status": 200,
+    "bytes": 781,
+    "sha256": "94c0c0e879a4b2cea0a34d0a6045e20b17bd0a2a8ab90b0a3cd3564ff98d67e8",
+    "captured_at": "2026-10-31T02:25:13.702984+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180914-半决赛.json",
+    "status": 200,
+    "bytes": 850,
+    "sha256": "b87cc18a042ad28be04c276c92e72a4dce2b2e4439814c1476d4399b62cb6f1d",
+    "captured_at": "2026-10-31T02:25:14.151164+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180913-淘汰赛8进4.json",
+    "status": 200,
+    "bytes": 1363,
+    "sha256": "9d94917ee6a7d499e0ddbbf401713f9fe2aee253106f87741445d2ee3d73a681",
+    "captured_at": "2026-10-31T02:25:14.223147+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180912-淘汰赛16进8 Day2.json",
+    "status": 200,
+    "bytes": 1388,
+    "sha256": "87910be1a7f6fb4f35926d3481f78e8389656d8a25ce9048a94b96c5a6a68f94",
+    "captured_at": "2026-10-31T02:25:14.575127+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180911-淘汰赛16进8 Day1.json",
+    "status": 200,
+    "bytes": 1393,
+    "sha256": "301bc76feab6989c2e16e105adda37e8857ffd5225054d886cfe4b2b92b79d16",
+    "captured_at": "2026-10-31T02:25:14.862431+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180910-淘汰赛48进16 Day4.json",
+    "status": 200,
+    "bytes": 1936,
+    "sha256": "b709cef9e9baf44ab590f2897f4595edda2b0852a907bb46a926d975bcf50530",
+    "captured_at": "2026-10-31T02:25:14.979578+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180909-淘汰赛48进16 Day3.json",
+    "status": 200,
+    "bytes": 1903,
+    "sha256": "0d71f0376d9f333e2c6f3bcc4a4de84fc0f4c94406325dcda701a71d9c1625d6",
+    "captured_at": "2026-10-31T02:25:15.318701+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180908-淘汰赛48进16 Day2.json",
+    "status": 200,
+    "bytes": 1915,
+    "sha256": "14347f80ebc9cd94c32c33fdc22fd9bb7ee4f41d8410d3e182802b7db6fac06e",
+    "captured_at": "2026-10-31T02:25:15.498848+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180907-淘汰赛48进16 Day1.json",
+    "status": 200,
+    "bytes": 1926,
+    "sha256": "d7b7dad7f51e886d2372fef15e29546e15980a49ed94115a7770640f5755d031",
+    "captured_at": "2026-10-31T02:25:15.757775+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180905-复活赛.json",
+    "status": 200,
+    "bytes": 4235,
+    "sha256": "ac8aca5a64c32850f48fbe2d6bd4717d296fdd1493680ce3f8e4ed7fabeaaecb",
+    "captured_at": "2026-10-31T02:25:16.048045+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180904-海选赛day10.json",
+    "status": 200,
+    "bytes": 3962,
+    "sha256": "731ed3a7193ece888d54318a55b0bbe87daaff3f19000790b19286c7f194ffc6",
+    "captured_at": "2026-10-31T02:25:16.090439+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180903-海选赛day9.json",
+    "status": 200,
+    "bytes": 3932,
+    "sha256": "cd12d099ffa94a2ac03b8a6fad53deb195ecee77d37710f125ec7d5cb8f21315",
+    "captured_at": "2026-10-31T02:25:16.348249+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180902-海选赛day8.json",
+    "status": 200,
+    "bytes": 3956,
+    "sha256": "5e0dfbec13d7d17109bfc2716e308bf53247a6159769a7b9df571ee93d34a2b4",
+    "captured_at": "2026-10-31T02:25:16.700247+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180901-海选赛day7.json",
+    "status": 200,
+    "bytes": 3918,
+    "sha256": "cc8bbf34af8b2a10b2b3b6b332129be49a22a301297eeed6306b4f908f979512",
+    "captured_at": "2026-10-31T02:25:16.751965+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180831-海选赛day6.json",
+    "status": 200,
+    "bytes": 3910,
+    "sha256": "9abc821315b2200889001ddf27a4dfc7e70e900d0987d885171ce7a918a0458f",
+    "captured_at": "2026-10-31T02:25:16.984739+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180830-海选赛day5.json",
+    "status": 200,
+    "bytes": 4031,
+    "sha256": "e4736cbb283f9eb80ea176ea21a748c638a92916618a98f7ad1bb6319a1715c9",
+    "captured_at": "2026-10-31T02:25:17.396111+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180829-海选赛day4.json",
+    "status": 200,
+    "bytes": 4130,
+    "sha256": "90fb4069539003e8f479ec85476b1df7438be9033d44d89d06de2bb3585cccb8",
+    "captured_at": "2026-10-31T02:25:17.609607+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180828-海选赛day3.json",
+    "status": 200,
+    "bytes": 4086,
+    "sha256": "aad17ab7a41f6fb95814ef14d5318a85350da88649b563fc254f1cb7d7f0c36c",
+    "captured_at": "2026-10-31T02:25:17.627302+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180827-海选赛day2.json",
+    "status": 200,
+    "bytes": 4142,
+    "sha256": "4ba90694d856ae2ac98751d55883eb8609679957f88049577417d26bfe5a2636",
+    "captured_at": "2026-10-31T02:25:18.208025+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20180826-海选赛day1.json",
+    "status": 200,
+    "bytes": 4072,
+    "sha256": "b2ec0ef69a5b30455ee4dbd9080e2b7a1818be3b6d742f41f8e75726318abf95",
+    "captured_at": "2026-10-31T02:25:18.254027+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170918-表演赛.json",
+    "status": 200,
+    "bytes": 1336,
+    "sha256": "8d9467509382126b09116a8e4a27dc0a2e841fdb15713edf901cd158c71ead97",
+    "captured_at": "2026-10-31T02:25:18.262473+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170915-淘汰赛8进4.json",
+    "status": 200,
+    "bytes": 1420,
+    "sha256": "1d92265cd7dbdcf413f25636c59bf466380983ca4b3278ce149ac9c4ecd9f386",
+    "captured_at": "2026-10-31T02:25:18.842389+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170917-决赛.json",
+    "status": 200,
+    "bytes": 803,
+    "sha256": "777b20346dee1de5003a4e5a88fb3add6edb359c4bcce5ec6620cb4994b7dd54",
+    "captured_at": "2026-10-31T02:25:18.973103+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170916-半决赛.json",
+    "status": 200,
+    "bytes": 873,
+    "sha256": "d7d34d36a16d502493e607f48ab8244c37ad1733e697700c19ae4f5ca68298d4",
+    "captured_at": "2026-10-31T02:25:19.157964+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170913-淘汰赛16进8 Day1.json",
+    "status": 200,
+    "bytes": 1442,
+    "sha256": "9e62fd89c7907416b8df2403a61aa66481f4c0dc3ee7618c07740215c7a8e75c",
+    "captured_at": "2026-10-31T02:25:19.584589+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170914-淘汰赛16进8 Day2.json",
+    "status": 200,
+    "bytes": 1446,
+    "sha256": "9a7b5f35c1b0559e404f6869902c77efceb1fb05f9b33f9286044a47a93d64a9",
+    "captured_at": "2026-10-31T02:25:19.606994+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170912-淘汰赛48进16 Day4.json",
+    "status": 200,
+    "bytes": 1942,
+    "sha256": "1aef15ad154beaf1c35171896c539db64fb87f4f86591ea842b4cc0b4a73311a",
+    "captured_at": "2026-10-31T02:25:19.882204+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170911-淘汰赛48进16 Day3.json",
+    "status": 200,
+    "bytes": 1930,
+    "sha256": "dd910677d30011c0871081ab70efc1909bc2b1e54a42be8bc251c4d13476cb16",
+    "captured_at": "2026-10-31T02:25:20.190656+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170910-淘汰赛48进16 Day2.json",
+    "status": 200,
+    "bytes": 1967,
+    "sha256": "fe880eafadacc7ec5974b45dd965bcbf74a02548815dc08e428b36b73138453c",
+    "captured_at": "2026-10-31T02:25:20.232029+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170909-淘汰赛48进16 Day1.json",
+    "status": 200,
+    "bytes": 1932,
+    "sha256": "c4132a52cba4ef803a6d183a552d17ee38435b1ffefe872748b3319e16509b8c",
+    "captured_at": "2026-10-31T02:25:21.189822+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170907-复活赛.json",
+    "status": 200,
+    "bytes": 4259,
+    "sha256": "6bdb4dad849ef34407ed5b3576a6605995c085b39646bcf494f848a144a59dae",
+    "captured_at": "2026-10-31T02:25:21.268677+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170906-海选赛day10.json",
+    "status": 200,
+    "bytes": 3806,
+    "sha256": "6de7934b07d1f03618d96564ef0bc34f354b6e405f384077f9ae4b96fe96915a",
+    "captured_at": "2026-10-31T02:25:21.353073+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170905-海选赛day9.json",
+    "status": 200,
+    "bytes": 3719,
+    "sha256": "601ddc3dff014ff63d639daf54060fe10c0069ea3088d4da99692c57cb060dfa",
+    "captured_at": "2026-10-31T02:25:21.968088+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170903-海选赛day7.json",
+    "status": 200,
+    "bytes": 3761,
+    "sha256": "f4a41be1c3bc8b60dd89536b1f83a76416e7b043b225a01a552a07829ef60380",
+    "captured_at": "2026-10-31T02:25:22.061979+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170904-海选赛day8.json",
+    "status": 200,
+    "bytes": 3808,
+    "sha256": "688182cad548a0072d6c546d4578dc77320db66e256218598f0a4835fa0a26ce",
+    "captured_at": "2026-10-31T02:25:22.078134+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170831-海选赛day4.json",
+    "status": 200,
+    "bytes": 3722,
+    "sha256": "0776bbb7d5bff23308e3408f7d9898850cc8452e0574d095877313f1b2638646",
+    "captured_at": "2026-10-31T02:25:22.688033+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170901-海选赛day5.json",
+    "status": 200,
+    "bytes": 3725,
+    "sha256": "1f35a88ef35c5b92f08f4cef6823c9ecc84ee215d90ed7239951ce0527211ed9",
+    "captured_at": "2026-10-31T02:25:22.795353+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170902-海选赛day6.json",
+    "status": 200,
+    "bytes": 3735,
+    "sha256": "34458915ab57a0bd0757003d0090521f80428f3e5fdc9164a2301e630ab12a1f",
+    "captured_at": "2026-10-31T02:25:22.887151+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170830-海选赛day3.json",
+    "status": 200,
+    "bytes": 3759,
+    "sha256": "bd27b50549b9c185c44da7804b547147c2c5675e9b106ad7a22faa3be156cab6",
+    "captured_at": "2026-10-31T02:25:23.280071+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170829-海选赛day2.json",
+    "status": 200,
+    "bytes": 3648,
+    "sha256": "dd71c0c54a783f3dc7eaccb1584b38f7658f822207916293b45da65c633aa1b0",
+    "captured_at": "2026-10-31T02:25:23.408633+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/result/20170828-海选赛day1.json",
+    "status": 200,
+    "bytes": 3649,
+    "sha256": "150b1a1b44346558db441d636a0abbc6b22403e0e632e8bd4799487df6f0c1b3",
+    "captured_at": "2026-10-31T02:25:23.616328+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/list/2017.json",
+    "error": "HTTP Error 404: Not Found",
+    "status": "failed"
+  },
+  {
+    "url": "https://tinghao.moe/api/list/2019.json",
+    "error": "HTTP Error 404: Not Found",
+    "status": "failed"
+  },
+  {
+    "url": "https://tinghao.moe/api/list/2018.json",
+    "error": "HTTP Error 404: Not Found",
+    "status": "failed"
+  },
+  {
+    "url": "https://tinghao.moe/api/list/2020.json",
+    "error": "HTTP Error 404: Not Found",
+    "status": "failed"
+  },
+  {
+    "url": "https://tinghao.moe/api/list/2022.json",
+    "error": "HTTP Error 404: Not Found",
+    "status": "failed"
+  },
+  {
+    "url": "https://tinghao.moe/api/list/2021.json",
+    "error": "HTTP Error 404: Not Found",
+    "status": "failed"
+  },
+  {
+    "url": "https://tinghao.moe/api/list/2024.json",
+    "status": 200,
+    "bytes": 36514,
+    "sha256": "1742ac0ff1a939ea12e807b67771271a534a8c38c127e0e3f76ae369898ec34f",
+    "captured_at": "2026-10-31T02:25:34.142928+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/list/2025.json",
+    "status": 200,
+    "bytes": 49620,
+    "sha256": "4bac57a996ec40452800a0434443f7448b097b5605b193ddbfa2f85f12e1a2e8",
+    "captured_at": "2026-10-31T02:25:34.816386+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/list/2026.json",
+    "status": 200,
+    "bytes": 38973,
+    "sha256": "3d91796462b3b515d3f80cc086df6b78bae0e0b39e308d90d2ed596cff62de9f",
+    "captured_at": "2026-10-31T02:25:34.860182+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/list/2023.json",
+    "error": "HTTP Error 404: Not Found",
+    "status": "failed"
+  },
+  {
+    "url": "https://tinghao.moe/guess/",
+    "status": 200,
+    "bytes": 468,
+    "sha256": "b4c35145fe0c8c3d6e83540eac9705ffc988af6dc1b8353bb933bea37f189914",
+    "captured_at": "2026-10-31T02:27:11.736855+08:00",
+    "content_type": "text/html; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/vs/",
+    "status": 200,
+    "bytes": 462,
+    "sha256": "18c59e51a29ade8b18b02500ca4fe5e3af2dfcaf4d2ec8786b5cea9ad13fc508",
+    "captured_at": "2026-10-31T02:27:12.404601+08:00",
+    "content_type": "text/html; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/character_avatar_list.json",
+    "status": 200,
+    "bytes": 319994,
+    "sha256": "5d335ee9c9d087849138f7be1d1024369a3586d65b2569827869b260982c180a",
+    "captured_at": "2026-10-31T02:27:12.728870+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/support-card/",
+    "status": 200,
+    "bytes": 768,
+    "sha256": "45ede09ad9f69273796e03c66e96209ac8946652ed25c342d973da295fdd214b",
+    "captured_at": "2026-10-31T02:27:12.912963+08:00",
+    "content_type": "text/html; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/time.json",
+    "status": 200,
+    "bytes": 10992,
+    "sha256": "07818d091b9bcedb97636793b2285a4c562393c788212dee237b700931abac7c",
+    "captured_at": "2026-10-31T02:33:51.828168+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/bgm-anime.json",
+    "status": 200,
+    "bytes": 149280,
+    "sha256": "03920ed1dcc539c8a8709de7f42da43ac6dc1987a5e1690ce0256cfa41a2455a",
+    "captured_at": "2026-10-31T02:33:52.990429+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/api/character_tags.json",
+    "status": 200,
+    "bytes": 415441,
+    "sha256": "ee2e10a793bb83a7b70c40388a7366cd41ab8bb767b4a46a4b745bd651c4a669",
+    "captured_at": "2026-10-31T02:33:54.379573+08:00",
+    "content_type": "application/json; charset=utf-8",
+    "raw_response_retained": false
+  },
+  {
+    "url": "https://tinghao.moe/video/",
+    "status": 200,
+    "bytes": 591,
+    "sha256": "020f1c63145b3d786562d2f7a97235dcfab6fc98e32ca414b2d245d0f13c4f0e",
+    "captured_at": "2026-10-31T02:33:55.207068+08:00",
+    "content_type": "text/html; charset=utf-8",
+    "raw_response_retained": false
+  }
+]
